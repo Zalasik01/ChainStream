@@ -1,5 +1,5 @@
 ---
-name: Issue de Feature
+name: Melhoria
 about: Sugira uma nova funcionalidade para o projeto
 title: ''
 labels: feature
